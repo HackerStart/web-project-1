@@ -4,4 +4,4 @@
 
 整体效果
 
-!(funcode)[https://raw.githubusercontent.com/HackerStart/web-project-1/master/funcode%20website.png]
+![funcode](https://raw.githubusercontent.com/HackerStart/web-project-1/master/funcode%20website.png)
